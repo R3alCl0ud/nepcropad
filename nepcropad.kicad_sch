@@ -1028,7 +1028,6 @@
     )
   )
 
-
   (junction (at 38.1 148.59) (diameter 0) (color 0 0 0 0)
     (uuid 0541dd7e-1e37-49f1-9f7d-5381650ae092)
   )
@@ -2216,7 +2215,7 @@
     (uuid a5342b95-2ea5-45aa-9992-cd7273a981fb)
     (property "Reference" "J1" (id 0) (at 119.38 15.24 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 119.38 17.78 0))
-    (property "Footprint" "usbc:USB_C_GCT_USB4085" (id 2) (at 123.19 38.1 0)
+    (property "Footprint" "jlcusbc:TYPE-C-31-M-12" (id 2) (at 123.19 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 123.19 38.1 0)
@@ -2653,7 +2652,7 @@
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/a5342b95-2ea5-45aa-9992-cd7273a981fb"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "usbc:USB_C_GCT_USB4085")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "jlcusbc:TYPE-C-31-M-12")
     )
     (path "/a9e6ce0a-37dc-4fb3-b1ba-bf394a4f484c"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")

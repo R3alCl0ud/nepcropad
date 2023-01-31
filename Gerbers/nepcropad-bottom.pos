@@ -1,0 +1,34 @@
+### Module positions - created on Tue 31 Jan 2023 01:17:30 AM MST ###
+### Printed by Pcbnew version (6.0.10)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                               PosX       PosY       Rot  Side
+C1        22pF                     C_0805_2012Metric                -177.5460   -78.4860  -135.0000  bottom
+C2        22pF                     C_0805_2012Metric                -177.5460   -74.1680  135.0000  bottom
+C3        1uF                      C_0805_2012Metric                -159.2580   -68.8340  135.0000  bottom
+C4        0.1uF                    C_0805_2012Metric                -172.5676   -82.1944    0.0000  bottom
+C5        0.1uF                    C_0805_2012Metric                -160.2740   -87.1220  -45.0000  bottom
+C6        0.1uF                    C_0805_2012Metric                -152.9080   -78.7400  -90.0000  bottom
+C7        10uF                     C_0805_2012Metric                -154.6860   -60.1980  180.0000  bottom
+C8        0.1uF                    C_0805_2012Metric                -163.0680   -68.2244  180.0000  bottom
+D1        D_Small                  D_SOD-123                        -141.2240   -67.3100  180.0000  bottom
+D2        D_Small                  D_SOD-123                        -161.7980   -66.0400  180.0000  bottom
+D3        D_Small                  D_SOD-123                        -180.9750   -70.8660   90.0000  bottom
+D4        D_Small                  D_SOD-123                        -142.8750   -90.4875   90.0000  bottom
+D5        D_Small                  D_SOD-123                        -161.2900   -92.9640   90.0000  bottom
+D6        D_Small                  D_SOD-123                        -180.9750   -90.4875   90.0000  bottom
+D7        D_Small                  D_SOD-123                        -142.8750  -109.5375   90.0000  bottom
+D8        D_Small                  D_SOD-123                        -161.9250  -109.5375   90.0000  bottom
+D9        D_Small                  D_SOD-123                        -180.9750  -109.5375   90.0000  bottom
+F1        500mA                    Fuse_1206_3216Metric             -154.9400   -57.7850    0.0000  bottom
+J1        USB_C_Receptacle_USB2.0  TYPE-C-31-M-12                   -145.1075   -56.1975    0.0000  bottom
+R1        10k                      R_0805_2012Metric                -167.6400   -60.9600    0.0000  bottom
+R2        22                       R_0805_2012Metric                -146.0500   -71.1200  -90.0000  bottom
+R3        22                       R_0805_2012Metric                -143.5100   -71.1200  -90.0000  bottom
+R4        10k                      R_0805_2012Metric                -163.3220   -89.4080    0.0000  bottom
+R5        5.1k                     R_0805_2012Metric                -138.1125   -62.7062   90.0000  bottom
+R6        5.1k                     R_0805_2012Metric                -135.8900   -57.6580   90.0000  bottom
+SW1       SW_Push                  SKQG-1155865                     -176.7840   -59.4360  180.0000  bottom
+U1        ATmega32U4-A             TQFP-44_10x10mm_P0.8mm           -163.5125   -78.7400  -45.0000  bottom
+Y1        16MHz                    Crystal_SMD_3225-4Pin_3.2x2.5mm  -175.2600   -76.2000  135.0000  bottom
+## End

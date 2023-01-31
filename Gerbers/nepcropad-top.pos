@@ -1,0 +1,15 @@
+### Module positions - created on Tue 31 Jan 2023 01:17:30 AM MST ###
+### Printed by Pcbnew version (6.0.10)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+MX1       MX-NoLED  MX-1U-NoLED        134.9375   -71.4375    0.0000  top
+MX2       MX-NoLED  MX-1U-NoLED        153.9875   -71.4375    0.0000  top
+MX3       MX-NoLED  MX-1U-NoLED        173.0375   -71.4375    0.0000  top
+MX4       MX-NoLED  MX-1U-NoLED        134.9375   -90.4875    0.0000  top
+MX5       MX-NoLED  MX-1U-NoLED        153.9875   -90.4875    0.0000  top
+MX6       MX-NoLED  MX-1U-NoLED        173.0375   -90.4875    0.0000  top
+MX7       MX-NoLED  MX-1U-NoLED        134.9375  -109.5375    0.0000  top
+MX8       MX-NoLED  MX-1U-NoLED        153.9875  -109.5375    0.0000  top
+MX9       MX-NoLED  MX-1U-NoLED        173.0375  -109.5375    0.0000  top
+## End
