@@ -2444,7 +2444,7 @@
     (property "Value" "ATmega32U4-A" (id 1) (at 90.9194 157.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (id 2) (at 88.9 109.22 0)
+    (property "Footprint" "ATmega32U4-MU:QFN44G-0.5-7X7MM" (id 2) (at 88.9 109.22 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 88.9 109.22 0)
@@ -2703,7 +2703,7 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
     )
     (path "/db794584-6c7e-4806-a1b1-36b618523305"
-      (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
+      (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "ATmega32U4-MU:QFN44G-0.5-7X7MM")
     )
     (path "/8a0114f1-58f2-4045-ae75-3bf5f22bbf5e"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")

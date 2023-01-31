@@ -3,4 +3,5 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "usbc")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
   (lib (name "jlcusbc")(type "KiCad")(uri "${KIPRJMOD}/USB-C-Connectors/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+  (lib (name "ATmega32U4-MU")(type "KiCad")(uri "/home/neptune/Documents/MCU-ATMEGA32U4-MUR_VQFN44_")(options "")(descr ""))
 )
